@@ -128,3 +128,12 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+proto-extract
+.eslintignore
+.eslintrc.json
+.prettierignore
+typedoc.json
+gitiignore
+src
+tsconfig.json
